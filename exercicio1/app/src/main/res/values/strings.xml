@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Atividade 1</string>
+    <string name="input_text_hint">Enter a number</string>
+    <string name="sum_button_hint">SUM</string>
+    <string name="result_hint">RESULT</string>
+</resources>
